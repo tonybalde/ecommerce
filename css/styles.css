@@ -219,7 +219,7 @@ body {
 /* Home Page */ 
 
 #hero{
-    background-image: url("/images/laptop.jpg");
+    background-image: url("../images/laptop.jpg");
     height: 90vh;
     width: 100%;
     background-position: top 25% right 0;
@@ -240,7 +240,7 @@ body {
 }
 
 #hero button{
-    background-image: url("/images/button.png");
+    background-image: url("../images/button.png");
     background-size: 100%;
     background-color: transparent;
     color: #088178;
