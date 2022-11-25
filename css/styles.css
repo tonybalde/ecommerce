@@ -449,6 +449,7 @@ body {
     background-position: center;
     padding: 30px;
     border-radius: 5px;
+    border: 1px solid #222;
 }
 
 #sm-banner .banner-box2{
