@@ -2,4 +2,4 @@
 
 ## Solo con HTML y CSS
 
-### Puedes ver la pagina en: https://tonybalde.github.io/ecommerce
+### Podes ver la pagina en: https://tonybalde.github.io/ecommerce
